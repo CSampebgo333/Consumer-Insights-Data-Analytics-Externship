@@ -1,0 +1,9 @@
+Type: Rewrite this 'input' using this structure: "I accomplished X by the measure Y that resulted in Z"
+
+The six most critical elements of a prompt are:
+1. Task
+2. Context
+3. Exemplars
+4. Persona
+5. Format 
+6. Tone.
