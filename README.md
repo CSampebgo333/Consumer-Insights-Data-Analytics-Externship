@@ -49,9 +49,6 @@ This repository contains the projects that I completed during the Consumer Insig
 
 From mastering data science libraries to exploring data analysis, I acquired a highly valued skill set. This externship provided practical experience that bridges the gap between my academic knowledge and the real-world application.
 
-## A Competitive Edge
-
-The insights and experiences I gained from this externship will provide me with a competitive edge.
 
 ## How to Use This Repository
 
