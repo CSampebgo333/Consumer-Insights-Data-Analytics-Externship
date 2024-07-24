@@ -50,14 +50,6 @@ This repository contains the projects that I completed during the Consumer Insig
 From mastering data science libraries to exploring data analysis, I acquired a highly valued skill set. This externship provided practical experience that bridges the gap between my academic knowledge and the real-world application.
 
 
-## How to Use This Repository
-
-- Clone the repository: `git clone <repository-url>`
-- Navigate to the project directory.
-- Review the project files to understand the research process and findings.
-- Refer to the `Data` folder for datasets used in the analysis.
-- Use the `Scripts` folder for code related to data processing and analysis.
-
 ## Acknowledgements
 
 I would like to thank Extern team and Beats by Dre for this incredible opportunity to learn and grow in the field of consumer insights and market research.
